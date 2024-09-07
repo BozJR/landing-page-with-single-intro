@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://bozjr-huddle-landing-page-with-single-intro.netlify.app/](https://bozjr-huddle-landing-page-with-single-intro.netlify.app/)
+- Live Site URL: [https://bozjr-landing-page-with-single-intro.netlify.app/](https://bozjr-landing-page-with-single-intro.netlify.app/)
 
 
 ### Built with
